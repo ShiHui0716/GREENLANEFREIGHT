@@ -2660,7 +2660,7 @@ input, select, textarea {
 			background-color: #9ACD32;
 			border: 0;
 			box-shadow: none;
-			color: #D3D3D3 !important;
+			color: #848884 !important;
 		}
 
 			input[type="submit"].primary:hover,
